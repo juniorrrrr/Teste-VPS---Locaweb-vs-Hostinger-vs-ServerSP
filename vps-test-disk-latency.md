@@ -25,6 +25,24 @@ ioping . -c 10
 10 requests completed in 9.03 s, 449 iops, 1.76 MiB/s
 min/avg/max/mdev = 562 us / 2.22 ms / 8.74 ms / 2.49 ms
 ```
+### Hostinger
+- 1 core / 1 GB RAM / 20 GB SSD
+```
+4 KiB from . (ext4 /dev/ploop51174p1): request=1 time=4.93 ms
+4 KiB from . (ext4 /dev/ploop51174p1): request=2 time=143 us
+4 KiB from . (ext4 /dev/ploop51174p1): request=3 time=135 us
+4 KiB from . (ext4 /dev/ploop51174p1): request=4 time=420 us
+4 KiB from . (ext4 /dev/ploop51174p1): request=5 time=32.4 ms
+4 KiB from . (ext4 /dev/ploop51174p1): request=6 time=117 us
+4 KiB from . (ext4 /dev/ploop51174p1): request=7 time=167 us
+4 KiB from . (ext4 /dev/ploop51174p1): request=8 time=148 us
+4 KiB from . (ext4 /dev/ploop51174p1): request=9 time=161 us
+4 KiB from . (ext4 /dev/ploop51174p1): request=10 time=183 us
+
+--- . (ext4 /dev/ploop51174p1) ioping statistics ---
+10 requests completed in 9.04 s, 257 iops, 1.01 MiB/s
+min/avg/max/mdev = 117 us / 3.88 ms / 32.4 ms / 9.62 ms
+```
 
 ### ServerSP
 - 1 core / 1 GB RAM / 25 GB SSD
