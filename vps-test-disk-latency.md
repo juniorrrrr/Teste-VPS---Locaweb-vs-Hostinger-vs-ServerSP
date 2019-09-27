@@ -26,7 +26,7 @@ ioping . -c 10
 min/avg/max/mdev = 562 us / 2.22 ms / 8.74 ms / 2.49 ms
 ```
 ### Hostinger
-- 1 core / 1 GB RAM / 20 GB SSD
+- 2 core / 1 GB RAM / 20 GB SSD
 ```
 4 KiB from . (ext4 /dev/ploop51174p1): request=1 time=4.93 ms
 4 KiB from . (ext4 /dev/ploop51174p1): request=2 time=143 us
