@@ -26,6 +26,7 @@ Procuramos escolher planos **semelhantes** em configuração de valores, veja aq
 - 1 core / 1 GB RAM / 25 GB SSD R$29.90
 
 
+**Obs*** O VPS Hostinger foi contratado com 1 core, porém com o `# cat /proc/cpuinfo` informa 2 cores 
 
 Valores para data de hoje 27/09/2019
 
