@@ -8,6 +8,45 @@ cd ./UnixBench
 ./Run
 ```
 
+### ServerSP
+- 1 core / 1 GB RAM / 25 GB SSD
+
+```
+Benchmark Run: Fri Sep 27 2019 13:03:21 - 13:31:25
+1 CPU in system; running 1 parallel copy of tests
+
+Dhrystone 2 using register variables       32730708.5 lps   (10.0 s, 7 samples)
+Double-Precision Whetstone                     4611.8 MWIPS (9.8 s, 7 samples)
+Execl Throughput                               5124.8 lps   (30.0 s, 2 samples)
+File Copy 1024 bufsize 2000 maxblocks       1033023.9 KBps  (30.0 s, 2 samples)
+File Copy 256 bufsize 500 maxblocks          299427.1 KBps  (30.0 s, 2 samples)
+File Copy 4096 bufsize 8000 maxblocks       2055630.8 KBps  (30.0 s, 2 samples)
+Pipe Throughput                             2474628.9 lps   (10.0 s, 7 samples)
+Pipe-based Context Switching                 288633.6 lps   (10.0 s, 7 samples)
+Process Creation                              15163.4 lps   (30.0 s, 2 samples)
+Shell Scripts (1 concurrent)                   9454.8 lpm   (60.0 s, 2 samples)
+Shell Scripts (8 concurrent)                   1206.4 lpm   (60.0 s, 2 samples)
+System Call Overhead                        3716832.9 lps   (10.0 s, 7 samples)
+
+System Benchmarks Index Values               BASELINE       RESULT    INDEX
+Dhrystone 2 using register variables         116700.0   32730708.5   2804.7
+Double-Precision Whetstone                       55.0       4611.8    838.5
+Execl Throughput                                 43.0       5124.8   1191.8
+File Copy 1024 bufsize 2000 maxblocks          3960.0    1033023.9   2608.6
+File Copy 256 bufsize 500 maxblocks            1655.0     299427.1   1809.2
+File Copy 4096 bufsize 8000 maxblocks          5800.0    2055630.8   3544.2
+Pipe Throughput                               12440.0    2474628.9   1989.3
+Pipe-based Context Switching                   4000.0     288633.6    721.6
+Process Creation                                126.0      15163.4   1203.4
+Shell Scripts (1 concurrent)                     42.4       9454.8   2229.9
+Shell Scripts (8 concurrent)                      6.0       1206.4   2010.6
+System Call Overhead                          15000.0    3716832.9   2477.9
+                                                                   ========
+System Benchmarks Index Score                                        1762.7
+
+```
+
+
 ### Locaweb
 - 2 core / 1 GB RAM / 40 GB SSD
 
@@ -149,44 +188,8 @@ System Call Overhead                          15000.0     228562.9    152.4
 System Benchmarks Index Score                                         461.4
 
 ```
-*** Foi contratado com 1 vCPU, porém o sistema mostra 2, o resultado é abaixo do esperado para 2 vCPU.
+*Foi contratado com 1 vCPU, porém o sistema mostra 2, o resultado é abaixo do esperado para 2 vCPU.
 
-### ServerSP
-- 1 core / 1 GB RAM / 25 GB SSD
 
-```
-Benchmark Run: Fri Sep 27 2019 13:03:21 - 13:31:25
-1 CPU in system; running 1 parallel copy of tests
 
-Dhrystone 2 using register variables       32730708.5 lps   (10.0 s, 7 samples)
-Double-Precision Whetstone                     4611.8 MWIPS (9.8 s, 7 samples)
-Execl Throughput                               5124.8 lps   (30.0 s, 2 samples)
-File Copy 1024 bufsize 2000 maxblocks       1033023.9 KBps  (30.0 s, 2 samples)
-File Copy 256 bufsize 500 maxblocks          299427.1 KBps  (30.0 s, 2 samples)
-File Copy 4096 bufsize 8000 maxblocks       2055630.8 KBps  (30.0 s, 2 samples)
-Pipe Throughput                             2474628.9 lps   (10.0 s, 7 samples)
-Pipe-based Context Switching                 288633.6 lps   (10.0 s, 7 samples)
-Process Creation                              15163.4 lps   (30.0 s, 2 samples)
-Shell Scripts (1 concurrent)                   9454.8 lpm   (60.0 s, 2 samples)
-Shell Scripts (8 concurrent)                   1206.4 lpm   (60.0 s, 2 samples)
-System Call Overhead                        3716832.9 lps   (10.0 s, 7 samples)
-
-System Benchmarks Index Values               BASELINE       RESULT    INDEX
-Dhrystone 2 using register variables         116700.0   32730708.5   2804.7
-Double-Precision Whetstone                       55.0       4611.8    838.5
-Execl Throughput                                 43.0       5124.8   1191.8
-File Copy 1024 bufsize 2000 maxblocks          3960.0    1033023.9   2608.6
-File Copy 256 bufsize 500 maxblocks            1655.0     299427.1   1809.2
-File Copy 4096 bufsize 8000 maxblocks          5800.0    2055630.8   3544.2
-Pipe Throughput                               12440.0    2474628.9   1989.3
-Pipe-based Context Switching                   4000.0     288633.6    721.6
-Process Creation                                126.0      15163.4   1203.4
-Shell Scripts (1 concurrent)                     42.4       9454.8   2229.9
-Shell Scripts (8 concurrent)                      6.0       1206.4   2010.6
-System Call Overhead                          15000.0    3716832.9   2477.9
-                                                                   ========
-System Benchmarks Index Score                                        1762.7
-
-```
-
-Com apenas 1 vCPU (core), o VPS da ServerSP tem 1762.7 pontos, é o VPS mais rápido.
+Com apenas 1 vCPU (core), o VPS da **ServerSP** tem 1762.7 pontos, é o VPS mais rápido.
