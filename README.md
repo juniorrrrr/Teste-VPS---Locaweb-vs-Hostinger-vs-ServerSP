@@ -5,14 +5,14 @@ Iremos usar Ubuntu 16 64bit e tentaremos rodar os testes no mesmo horário.
 
 O plano Locaweb escolhido foi o mais básico
 
-Locaweb [lw]
+### Locaweb [lw]
 
-2 core / 1 GB RAM / 40 GB SSD
+- 2 core / 1 GB RAM / 40 GB SSD
 
 
 
 A ServerSP não tem plano semelhante, o mais básico é
 
-ServerSP [ssp]
+### ServerSP [ssp]
 
-1 core / 1 GB RAM / 25 GB SSD
+- 1 core / 1 GB RAM / 25 GB SSD
