@@ -29,7 +29,7 @@ A ServerSP não tem plano semelhante, o mais básico é
 
 Valores para data de hoje 27/09/2019
 
-# Resultados
+## Resultados
 
 
 [vps-test-dd](vps-test-dd.md)
@@ -41,5 +41,7 @@ Valores para data de hoje 27/09/2019
 [vps-test-unixbench.md](vps-test-unixbench.md)
 
 
-# Foi testado também atraves do https://serverscope.io
+# Segunda batalha de testes
+
+Para não sobra dúvidas sobre a manipução dos resultados, também testamos através do https://serverscope.io, o resultado de cada teste esta abaixo.
 
