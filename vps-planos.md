@@ -17,7 +17,7 @@
 
 
 
-**#Hostinger**
+**Hostinger**
 
 ![Alt text](https://i.imgur.com/QDjNPgn.png?raw=true "Hostinger")
 
