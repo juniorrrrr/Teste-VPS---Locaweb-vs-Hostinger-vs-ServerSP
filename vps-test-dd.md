@@ -1,3 +1,10 @@
+## Empresas
+Locaweb [lw]
+
+Hostinger [ht] 
+
+ServerSP [sp]
+
 
 
 ## Desempenho de leitura/gravação
