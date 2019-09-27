@@ -32,7 +32,7 @@ Procuramos escolher planos **semelhantes** em configuração de valores, veja aq
 
 **Obs*** O VPS Hostinger foi contratado com 1 core, porém com o `# cat /proc/cpuinfo` informa 2 cores (https://i.imgur.com/N7AamIz.png)
 
-Valores para data de hoje 27/09/2019
+Esse teste foi executado em 27/09/2019
 
 
 ## Resultados
