@@ -5,6 +5,8 @@ Vamos comparar planos semelhantes de VPS Locaweb, Hostinger e ServerSP
 Iremos usar Ubuntu 16 64bit e tentaremos rodar os testes no mesmo horário.
 
 
+
+
 Procuramos escolher planos **semelhantes** em configuração de valores
 
 ### Locaweb [lw] (https://www.locaweb.com.br/cloud/vps-locaweb/)
@@ -12,14 +14,12 @@ Procuramos escolher planos **semelhantes** em configuração de valores
 - 2 core / 1 GB RAM / 40 GB SSD R$29.90 
 
 
-A Hostinger não tem plano semelhante, o mais básico é
 
 ### Hostinger [ht] (https://www.hostinger.com.br/servidor-vps)
 
 - 1 core / 1 GB RAM / 20 GB SSD  R$35.00
 
 
-A ServerSP não tem plano semelhante, o mais básico é 
 
 ### ServerSP [sp] (https://serversp.com/vps-ssd-nvme/)
 
