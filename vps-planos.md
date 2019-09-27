@@ -1,6 +1,6 @@
 **Locaweb**
 
-![Alt text](https://i.imgur.com/3rCtZBt.png?raw=true "Locaweb")
+![Alt text](https://i.imgur.com/tYOr79W.png?raw=true "Locaweb")
 
 
 
@@ -11,7 +11,7 @@
 
 **#Hostinger**
 
-![Alt text](https://i.imgur.com/fOFGyKe.png?raw=true "Hostinger")
+![Alt text](https://i.imgur.com/QDjNPgn.png?raw=true "Hostinger")
 
 
 
@@ -20,4 +20,4 @@
 
 **ServerSP**
 
-![Alt text](https://i.imgur.com/zJ7xU39.png?raw=true "ServerSP")
+![Alt text](https://i.imgur.com/6oqjTXM.png?raw=true "ServerSP")
