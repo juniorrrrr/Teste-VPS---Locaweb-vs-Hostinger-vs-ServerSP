@@ -29,5 +29,11 @@ A ServerSP não tem plano semelhante, o mais básico é
 
 Valores para data de hoje 27/09/2019
 
+# Resultados
 
-[Teste](vps-test-dd.md)
+
+[vps-test-dd](vps-test-dd.md)
+[vps-test-disk-latency.md](vps-test-disk-latency.md)
+[vps-test-network.md](vps-test-network.md)
+[vps-test-unixbench.md](vps-test-unixbench.md)
+
