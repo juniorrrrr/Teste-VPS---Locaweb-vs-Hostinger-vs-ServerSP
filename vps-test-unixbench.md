@@ -80,7 +80,7 @@ System Benchmarks Index Score                                        1131.9
 :snail: A Locaweb tem *2 cores*, devido a isso é feito um teste com apenas 1 core e outro teste com os 2 cores, o resultado é de assustar, nem com 2 cores ela consegue superar os outros.  
 
 ### Hostinger
-- 2 core / 1 GB RAM / 40 GB SSD
+- 1 core / 1 GB RAM / 40 GB SSD
 
 ```
 Benchmark Run: Fri Sep 27 2019 17:57:42 - 18:26:11
