@@ -149,7 +149,7 @@ System Call Overhead                          15000.0     228562.9    152.4
 System Benchmarks Index Score                                         461.4
 
 ```
-
+*** Foi contratado com 1 vCPU, porém o sistema mostra 2, o resultado é abaixo do esperado para 2 vCPU.
 
 ### ServerSP
 - 1 core / 1 GB RAM / 25 GB SSD
@@ -188,3 +188,5 @@ System Call Overhead                          15000.0    3716832.9   2477.9
 System Benchmarks Index Score                                        1762.7
 
 ```
+
+Com apenas 1 vCPU (core), o VPS da ServerSP tem 1762.7 pontos, é o VPS mais rápido.
