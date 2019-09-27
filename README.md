@@ -40,3 +40,6 @@ Valores para data de hoje 27/09/2019
 
 [vps-test-unixbench.md](vps-test-unixbench.md)
 
+
+# Foi testado também atraves do https://serverscope.io
+
