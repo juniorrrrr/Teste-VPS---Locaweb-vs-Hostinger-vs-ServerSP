@@ -7,6 +7,7 @@ Iremos usar Ubuntu 16 64bit e tentaremos rodar os testes no mesmo horário.
 
 
 
+
 Procuramos escolher planos **semelhantes** em configuração de valores, veja aqui os [planos](vps-planos.md)
 
 ### Locaweb [lw] (https://www.locaweb.com.br/cloud/vps-locaweb/)
@@ -26,9 +27,13 @@ Procuramos escolher planos **semelhantes** em configuração de valores, veja aq
 - 1 core / 1 GB RAM / 25 GB SSD R$29.90
 
 
-**Obs*** O VPS Hostinger foi contratado com 1 core, porém com o `# cat /proc/cpuinfo` informa 2 cores 
+
+
+
+**Obs*** O VPS Hostinger foi contratado com 1 core, porém com o `# cat /proc/cpuinfo` informa 2 cores (https://i.imgur.com/N7AamIz.png)
 
 Valores para data de hoje 27/09/2019
+
 
 ## Resultados
 
@@ -40,6 +45,9 @@ Valores para data de hoje 27/09/2019
 [vps-test-network.md](vps-test-network.md)
 
 [vps-test-unixbench.md](vps-test-unixbench.md)
+
+
+
 
 
 # Segunda batalha de testes
