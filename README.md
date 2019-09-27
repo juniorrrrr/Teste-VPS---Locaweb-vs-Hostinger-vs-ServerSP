@@ -28,5 +28,3 @@ A ServerSP não tem plano semelhante, o mais básico é
 
 
 Valores para data de hoje 27/09/2019
-
-### require `vps-test-dd.md`
