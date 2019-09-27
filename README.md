@@ -1,4 +1,4 @@
-# Teste-VPS---Locaweb-vs-Hostinger vs ServerSP
+# Teste VPS Locaweb vs Hostinger vs ServerSP
 
 Vamos comparar planos semelhantes de VPS Locaweb, Hostinger e ServerSP
 
