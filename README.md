@@ -7,7 +7,7 @@ Iremos usar Ubuntu 16 64bit e tentaremos rodar os testes no mesmo horário.
 
 
 
-Procuramos escolher planos **semelhantes** em configuração de valores
+Procuramos escolher planos **semelhantes** em configuração de valores, veja aqui os [planos](vps-planos.md)
 
 ### Locaweb [lw] (https://www.locaweb.com.br/cloud/vps-locaweb/)
 
