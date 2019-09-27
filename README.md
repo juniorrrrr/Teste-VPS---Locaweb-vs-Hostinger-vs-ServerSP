@@ -31,7 +31,7 @@ cd ~/_bench/
 dd if=/dev/zero of=diskbench bs=1M count=1024 conv=fdatasync
 ```
 
-- [lw]: `1073741824 bytes (1.1 GB, 1.0 GiB) copied, 53.1643 s, 20.2 MB/s` :snail: Isso esta mais lento que um HDD de desktop
+- [lw]: `1073741824 bytes (1.1 GB, 1.0 GiB) copied, 53.1643 s, 20.2 MB/s` :snail: SSD mesmo???
 - [sp]: `1073741824 bytes (1.1 GB, 1.0 GiB) copied, 1.28125 s, 838 MB/s` ServerSP foi 41 x mais rápido
 
 ### Read
