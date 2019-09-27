@@ -100,4 +100,3 @@ I/O (3rd run)   : 983 MB/s
 Average I/O     : 328.5 MB/s
 
 ```
-It hangs here :(
