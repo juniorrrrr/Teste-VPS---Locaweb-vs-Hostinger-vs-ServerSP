@@ -57,3 +57,4 @@ Esse teste foi executado em 27/09/2019
 
 Para não sobra dúvidas sobre a manipução dos resultados, também testamos através do https://serverscope.io, o resultado de cada teste esta abaixo.
 
+[Resultado ServerScope.io](vps-teste-serverscope.md)
