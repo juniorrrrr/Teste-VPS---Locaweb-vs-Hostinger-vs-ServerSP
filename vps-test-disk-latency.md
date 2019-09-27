@@ -6,6 +6,26 @@ Init:
 ```sh
 ioping . -c 10
 ```
+### ServerSP
+- 1 core / 1 GB RAM / 25 GB SSD
+```
+
+4 KiB from . (ext4 /dev/vda1): request=1 time=226 us
+4 KiB from . (ext4 /dev/vda1): request=2 time=335 us
+4 KiB from . (ext4 /dev/vda1): request=3 time=477 us
+4 KiB from . (ext4 /dev/vda1): request=4 time=392 us
+4 KiB from . (ext4 /dev/vda1): request=5 time=384 us
+4 KiB from . (ext4 /dev/vda1): request=6 time=391 us
+4 KiB from . (ext4 /dev/vda1): request=7 time=386 us
+4 KiB from . (ext4 /dev/vda1): request=8 time=464 us
+4 KiB from . (ext4 /dev/vda1): request=9 time=415 us
+4 KiB from . (ext4 /dev/vda1): request=10 time=404 us
+
+--- . (ext4 /dev/vda1) ioping statistics ---
+10 requests completed in 9.01 s, 2.58 k iops, 10.1 MiB/s
+min/avg/max/mdev = 226 us / 387 us / 477 us / 66 us
+
+```
 
 ### Locaweb
 - 2 core / 1 GB RAM / 40 GB SSD
@@ -42,25 +62,4 @@ min/avg/max/mdev = 562 us / 2.22 ms / 8.74 ms / 2.49 ms
 --- . (ext4 /dev/ploop51174p1) ioping statistics ---
 10 requests completed in 9.04 s, 257 iops, 1.01 MiB/s
 min/avg/max/mdev = 117 us / 3.88 ms / 32.4 ms / 9.62 ms
-```
-
-### ServerSP
-- 1 core / 1 GB RAM / 25 GB SSD
-```
-
-4 KiB from . (ext4 /dev/vda1): request=1 time=226 us
-4 KiB from . (ext4 /dev/vda1): request=2 time=335 us
-4 KiB from . (ext4 /dev/vda1): request=3 time=477 us
-4 KiB from . (ext4 /dev/vda1): request=4 time=392 us
-4 KiB from . (ext4 /dev/vda1): request=5 time=384 us
-4 KiB from . (ext4 /dev/vda1): request=6 time=391 us
-4 KiB from . (ext4 /dev/vda1): request=7 time=386 us
-4 KiB from . (ext4 /dev/vda1): request=8 time=464 us
-4 KiB from . (ext4 /dev/vda1): request=9 time=415 us
-4 KiB from . (ext4 /dev/vda1): request=10 time=404 us
-
---- . (ext4 /dev/vda1) ioping statistics ---
-10 requests completed in 9.01 s, 2.58 k iops, 10.1 MiB/s
-min/avg/max/mdev = 226 us / 387 us / 477 us / 66 us
-
 ```
