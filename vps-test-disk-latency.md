@@ -27,7 +27,7 @@ min/avg/max/mdev = 562 us / 2.22 ms / 8.74 ms / 2.49 ms
 ```
 
 ### ServerSP
-- 1 core / 1 GB RAM / 25 GB
+- 1 core / 1 GB RAM / 25 GB SSD
 ```
 
 4 KiB from . (ext4 /dev/vda1): request=1 time=226 us
