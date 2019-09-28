@@ -2,7 +2,8 @@
 
 Vamos comparar planos semelhantes de VPS ServerSP, Locaweb e Hostinger
 
-Usamos Ubuntu 16 64bit.
+Usamos Ubuntu 16 64bit. Os testes foram executados em 27/09/2019 entre 12:30 e 18h.
+
 
 
 Procuramos escolher planos **semelhantes** em configuração de valores, veja aqui os [planos](vps-planos.md)
@@ -26,7 +27,6 @@ Procuramos escolher planos **semelhantes** em configuração de valores, veja aq
 
 **Obs*** O VPS Hostinger foi contratado com 1 core, porém com o `# cat /proc/cpuinfo` informa 2 cores (https://i.imgur.com/N7AamIz.png)
 
-Esse teste foi executado em 27/09/2019
 
 
 ## Resultados
