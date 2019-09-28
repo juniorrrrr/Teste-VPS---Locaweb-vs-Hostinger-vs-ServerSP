@@ -190,42 +190,4 @@ System Benchmarks Index Score                                         461.4
 ```
 *Foi contratado com 1 vCPU, porém o sistema mostra 2, o resultado é abaixo do esperado para 2 vCPU.
 
-### Configr
-- 1 core / 1 GB RAM / 25 GB SSD
-
-```
-Benchmark Run: Fri Sep 27 2019 23:26:38 - 23:54:41
-1 CPU in system; running 1 parallel copy of tests
-
-Dhrystone 2 using register variables       31628609.6 lps   (10.0 s, 7 samples)
-Double-Precision Whetstone                     4278.9 MWIPS (9.8 s, 7 samples)
-Execl Throughput                               4228.1 lps   (30.0 s, 2 samples)
-File Copy 1024 bufsize 2000 maxblocks        838444.4 KBps  (30.0 s, 2 samples)
-File Copy 256 bufsize 500 maxblocks          236222.6 KBps  (30.0 s, 2 samples)
-File Copy 4096 bufsize 8000 maxblocks       1857200.2 KBps  (30.0 s, 2 samples)
-Pipe Throughput                             1473806.6 lps   (10.0 s, 7 samples)
-Pipe-based Context Switching                 200238.3 lps   (10.0 s, 7 samples)
-Process Creation                              11076.2 lps   (30.0 s, 2 samples)
-Shell Scripts (1 concurrent)                   3338.7 lpm   (60.0 s, 2 samples)
-Shell Scripts (8 concurrent)                    426.6 lpm   (60.1 s, 2 samples)
-System Call Overhead                        2597093.2 lps   (10.0 s, 7 samples)
-
-System Benchmarks Index Values               BASELINE       RESULT    INDEX
-Dhrystone 2 using register variables         116700.0   31628609.6   2710.2
-Double-Precision Whetstone                       55.0       4278.9    778.0
-Execl Throughput                                 43.0       4228.1    983.3
-File Copy 1024 bufsize 2000 maxblocks          3960.0     838444.4   2117.3
-File Copy 256 bufsize 500 maxblocks            1655.0     236222.6   1427.3
-File Copy 4096 bufsize 8000 maxblocks          5800.0    1857200.2   3202.1
-Pipe Throughput                               12440.0    1473806.6   1184.7
-Pipe-based Context Switching                   4000.0     200238.3    500.6
-Process Creation                                126.0      11076.2    879.1
-Shell Scripts (1 concurrent)                     42.4       3338.7    787.4
-Shell Scripts (8 concurrent)                      6.0        426.6    711.0
-System Call Overhead                          15000.0    2597093.2   1731.4
-                                                                   ========
-System Benchmarks Index Score                                        1212.9
-
-```
-
 Com apenas 1 vCPU (core), o VPS da **ServerSP** tem 1762.7 pontos, é o VPS mais rápido.
