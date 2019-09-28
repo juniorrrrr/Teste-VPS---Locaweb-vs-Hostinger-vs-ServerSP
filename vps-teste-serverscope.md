@@ -41,6 +41,24 @@ Disk Write - 18 MB/s
 
 Detalhes: https://serverscope.io/trials/xe1R
 
+### Hostinger
+- 1 core / 1 GB RAM / 20 GB SSD
+```
+Test results for VPS1 at hostinger
 
+Server specs:
+
+2 × Intel(R) Xeon(R) Silver 4114 CPU @ 2.20GHz
+1 GB RAM / 21 GB disk space
+Ubuntu 16.04 Xenial
+
+Benchmark results summary:
+
+UnixBench - 440.4
+Disk Read - 91 MB/s
+Disk Write - 431 MB/s
+Bandwidth - 361.70 MB/s
+```
+Detalhes: https://serverscope.io/trials/nJ9r
 
 
