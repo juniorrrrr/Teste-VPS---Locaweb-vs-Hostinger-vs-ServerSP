@@ -2,7 +2,7 @@
 
 Vamos comparar planos semelhantes de VPS ServerSP, Locaweb e Hostinger
 
-Na primeira rodada de teste, usamos Ubuntu 16 64bit e na segunda usamos CentOS 7.
+Usamos Ubuntu 16 64bit.
 
 
 Procuramos escolher planos **semelhantes** em configuração de valores, veja aqui os [planos](vps-planos.md)
